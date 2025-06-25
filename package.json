@@ -8,6 +8,7 @@
     "type": "git",
     "url": "git://github.com/felixge/node-require-like.git"
   },
+  "license": "MIT",
   "main": "./lib/require-like",
   "engines": {
     "node": "*"
